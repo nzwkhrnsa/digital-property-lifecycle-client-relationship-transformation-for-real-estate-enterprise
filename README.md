@@ -1,0 +1,2 @@
+# digital-property-lifecycle-client-relationship-transformation-for-real-estate-enterprise
+This capstone project simulates a real-world business analysis engagement focused on implementing Salesforce CRM for PrimeNest Realty, a mid-sized real estate company. The project addresses the challenges arising from the company's rapid expansion and reliance on disparate tools for managing property listings, client interactions, and transactions.
